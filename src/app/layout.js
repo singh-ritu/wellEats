@@ -26,3 +26,25 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+// // Import the functions you need from the SDKs you need
+// import { initializeApp } from "firebase/app";
+// import { getAnalytics } from "firebase/analytics";
+// // TODO: Add SDKs for Firebase products that you want to use
+// // https://firebase.google.com/docs/web/setup#available-libraries
+
+// // Your web app's Firebase configuration
+// // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// const firebaseConfig = {
+//   apiKey: "AIzaSyAAG3CpQClLQOID-xb69J6ZjWp10Xj_Iyw",
+//   authDomain: "welleats-16bdc.firebaseapp.com",
+//   projectId: "welleats-16bdc",
+//   storageBucket: "welleats-16bdc.firebasestorage.app",
+//   messagingSenderId: "603483492885",
+//   appId: "1:603483492885:web:7abb86ac67020e740cb41c",
+//   measurementId: "G-EGH942E6TB"
+// };
+
+// // Initialize Firebase
+// const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);
